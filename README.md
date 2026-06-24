@@ -32,12 +32,12 @@ natas-writeups/
 
 ## Progress
 
-- [ ] Level 0
-- [ ] Level 1
-- [ ] Level 2
-- [ ] Level 3
-- [ ] Level 4
-- [ ] Level 5
+- [x] Level 0
+- [x] Level 1
+- [x] Level 2
+- [x] Level 3
+- [x] Level 4
+- [x] Level 5
 - [ ] Level 6
 - [ ] Level 7
 - [ ] Level 8
