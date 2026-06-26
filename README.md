@@ -38,10 +38,10 @@ natas-writeups/
 - [x] Level 3
 - [x] Level 4
 - [x] Level 5
-- [ ] Level 6
-- [ ] Level 7
-- [ ] Level 8
-- [ ] Level 9
+- [x] Level 6
+- [x] Level 7
+- [x] Level 8
+- [x] Level 9
 - [ ] Level 10
 - [ ] Level 11
 - [ ] Level 12
