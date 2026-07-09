@@ -43,7 +43,7 @@ natas-writeups/
 - [x] Level 8
 - [x] Level 9
 - [x] Level 10
-- [ ] Level 11
+- [x] Level 11
 - [ ] Level 12
 - [ ] Level 13
 - [ ] Level 14
