@@ -46,7 +46,7 @@ natas-writeups/
 - [x] Level 11
 - [x] Level 12
 - [x] Level 13
-- [ ] Level 14
+- [x] Level 14
 - [ ] Level 15
 - [ ] Level 16
 - [ ] Level 17
